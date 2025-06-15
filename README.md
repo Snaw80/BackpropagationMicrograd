@@ -18,6 +18,5 @@ This project is my implementation of the micrograd algorithm, following along wi
 The implementation includes:
 - A `Value` class that represents a node in the computational graph
 - Basic operations (addition, multiplication, etc.) with automatic gradient computation
-- A simple neural network implementation using the micrograd framework
 
 This project serves as a practical exercise in understanding the core concepts of neural network training and gradient-based optimization.
